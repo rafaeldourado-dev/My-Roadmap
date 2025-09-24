@@ -1,6 +1,3 @@
-Com certeza. Ter uma lista detalhada é a melhor forma de organizar os estudos e garantir que você não deixe nenhuma área importante para trás.
-
-Aqui está um "mapa do conhecimento" com os principais tópicos de cada pilar. Use-o como um checklist para guiar suas pesquisas no Google, YouTube e LeetCode.
 
 ### Pilar 1: Estruturas de Dados e Algoritmos (A Base Técnica)
 Esta é a área mais densa. A ordem abaixo representa uma progressão lógica de estudo.
